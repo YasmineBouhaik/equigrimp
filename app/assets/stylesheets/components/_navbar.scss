@@ -6,10 +6,12 @@
 a.nav-link {
   color: white;
   text-align: center;
+  text-decoration: none;
 }
 
-.nav {
-  text-align: center;
+.nav :hover {
+  color: white;
+  opacity: 0.8;
 }
 
 .navbar-lewagon .navbar-collapse {
