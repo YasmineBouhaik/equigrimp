@@ -7,7 +7,7 @@ const loadDynamicBannerText = () => {
     new Typed('#banner-typed-text', {
       strings: ["Un petit coup de pouce ?"],
       typeSpeed: 50,
-      loop: true
+      loop: false
     });
   }
 }
