@@ -5,7 +5,7 @@ const loadDynamicBannerText = () => {
   const banner = document.querySelector('.banner');
   if (banner) {
     new Typed('#banner-typed-text', {
-      strings: ["Un petit coup de pouce ?"],
+      strings: ["Besoin d'un petit coup de pouce ?"],
       typeSpeed: 50,
       loop: false
     });
